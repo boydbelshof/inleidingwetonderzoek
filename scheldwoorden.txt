@@ -1,25 +1,23 @@
-    adder
-    addergebroed
-    apenkont
-    appelflap
-    badgast
-    baggerduiker
-    bangerd
-    barslet
-    beheime
+adder
+addergebroed
+apenkont
+appelflap
+badgast
+baggerduiker
+bangerd
+barslet
+beheime
     belhamel
     bengel
     bermslet
     blaaskaak
     bloedlijer
-    boer
     boerenheikneuter
     boerenhufter
     boerenkaffer
     boerenkarhengst
     boerenkinkel
     boerenpummel
-    boerin
     bosneuker
     botterik
     breezerslet
@@ -27,7 +25,6 @@
     bruinwerker
     cijferneuker
     del
-    doos
     dreuzel
     droplul
     druiloor
@@ -35,13 +32,11 @@
     eendenkont
     eikel
     etter
-    ezel
     fielt
     flapdrol
     flikker
     gangster
     gannef
-    geit
     geitenbreier
     geitenneuker
     geteisem
@@ -79,12 +74,10 @@
     kankernicht
     kapsoneslijer
     karhengst
-    kees
     keilef
     kelerelijer
     keutelkut
     kinkel
-    kip
     kippenneuker
     klafte
     klapkut
@@ -132,7 +125,6 @@
     mof
     Moffrika
     mongool
-    muts
     netenvreter
     nitwit
     oen
@@ -154,7 +146,6 @@
     plucheplakker
     pokkenlijder
     pokkenwijf
-    populist
     pothoer
     puistenkop
     pukkelbek
